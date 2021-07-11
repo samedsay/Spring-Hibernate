@@ -1,0 +1,94 @@
+10-Jul-2021 15:26:54.758 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.50
+10-Jul-2021 15:26:54.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 28 2021 08:46:44 UTC
+10-Jul-2021 15:26:54.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.50.0
+10-Jul-2021 15:26:54.760 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.16
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/abdulsamed/Library/Java/JavaVirtualMachines/openjdk-14.0.1/Contents/Home
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:26:54.761 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/conf/logging.properties
+10-Jul-2021 15:26:54.779 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:26:54.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/temp
+10-Jul-2021 15:26:54.782 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/abdulsamed/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+10-Jul-2021 15:26:54.999 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:26:55.033 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [427] milliseconds
+10-Jul-2021 15:26:55.060 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Jul-2021 15:26:55.060 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.50]
+10-Jul-2021 15:26:55.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/docs]
+10-Jul-2021 15:26:55.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/docs] has finished in [150] ms
+10-Jul-2021 15:26:55.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/manager]
+10-Jul-2021 15:26:55.239 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/manager] has finished in [23] ms
+10-Jul-2021 15:26:55.239 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/examples]
+10-Jul-2021 15:26:55.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/examples] has finished in [162] ms
+10-Jul-2021 15:26:55.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/ROOT]
+10-Jul-2021 15:26:55.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/ROOT] has finished in [11] ms
+10-Jul-2021 15:26:55.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/host-manager]
+10-Jul-2021 15:26:55.430 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/host-manager] has finished in [17] ms
+10-Jul-2021 15:26:55.433 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:26:55.446 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [412] milliseconds
+10-Jul-2021 15:28:47.727 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Jul-2021 15:28:47.728 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:28:47.733 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Jul-2021 15:28:47.751 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:28:47.789 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:29:17.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.50
+10-Jul-2021 15:29:17.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 28 2021 08:46:44 UTC
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.50.0
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.16
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/abdulsamed/Library/Java/JavaVirtualMachines/openjdk-14.0.1/Contents/Home
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:29:17.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:29:17.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+10-Jul-2021 15:29:17.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+10-Jul-2021 15:29:17.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+10-Jul-2021 15:29:17.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/conf/logging.properties
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50
+10-Jul-2021 15:29:17.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/temp
+10-Jul-2021 15:29:17.020 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/abdulsamed/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+10-Jul-2021 15:29:17.225 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:29:17.254 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [374] milliseconds
+10-Jul-2021 15:29:17.278 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Jul-2021 15:29:17.278 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.50]
+10-Jul-2021 15:29:17.283 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/docs]
+10-Jul-2021 15:29:17.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/docs] has finished in [162] ms
+10-Jul-2021 15:29:17.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/manager]
+10-Jul-2021 15:29:17.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/manager] has finished in [27] ms
+10-Jul-2021 15:29:17.473 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/examples]
+10-Jul-2021 15:29:17.671 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/examples] has finished in [198] ms
+10-Jul-2021 15:29:17.671 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/ROOT]
+10-Jul-2021 15:29:17.684 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/ROOT] has finished in [12] ms
+10-Jul-2021 15:29:17.684 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/host-manager]
+10-Jul-2021 15:29:17.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/abdulsamed/Desktop/SPRING&HIBERNATE/apache-tomcat-9.0.50/webapps/host-manager] has finished in [14] ms
+10-Jul-2021 15:29:17.702 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 15:29:17.713 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [458] milliseconds
+10-Jul-2021 16:03:52.425 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Jul-2021 16:03:52.426 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 16:03:52.432 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Jul-2021 16:03:52.450 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Jul-2021 16:03:52.489 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
